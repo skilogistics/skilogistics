@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skilogistics
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning c language
+- 👀 I’m interested in learning and making bold move
+- 🌱 I’m Senior Technical Manager at Bodex Group
 - 💞️ I’m looking to collaborate on flutter
 - 📫 you can reach me via email contactzen247@gmail.com
 
